@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTask", "EFTask\EFTask.csproj", "{510EFF31-0B91-4183-B7D9-AF5B0B34425E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510EFF31-0B91-4183-B7D9-AF5B0B34425E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510EFF31-0B91-4183-B7D9-AF5B0B34425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510EFF31-0B91-4183-B7D9-AF5B0B34425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510EFF31-0B91-4183-B7D9-AF5B0B34425E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB835EB5-85A9-4665-A1E6-B46A872DABE7}
+	EndGlobalSection
+EndGlobal
