@@ -12,7 +12,7 @@ namespace EFTask.Models
         [Key]
         public int UserId { get; set; }
         [Required]
-        public string FirstNane { get; set; }
+        public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Position { get; set; }
 
